@@ -1,0 +1,15 @@
+[submodule "cluster-apps"]
+	path = cluster-apps
+	url = git@github.com:mahanrezaie/devops-platform-cluster-apps.git
+[submodule "application"]
+	path = application
+	url = git@github.com:mahanrezaie/devops-platform-application.git
+[submodule "terraform"]
+	path = terraform
+	url = git@github.com:mahanrezaie/devops-platform-terraform.git
+[submodule "kubespray"]
+	path = kubespray
+	url = git@github.com:mahanrezaie/devops-platform-kubespray.git
+[submodule "api"]
+	path = api
+	url = git@github.com:mahanrezaie/ip-lookup-api.git
